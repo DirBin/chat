@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.fruit</groupId>
+	<artifactId>ivan</artifactId>
+	<version>1.1.0</version>
+	<name>ivan</name>
+	<packaging>pom</packaging>
+	<url>http://maven.apache.org</url>
+
+	<modules>
+		<module>ivan-api</module>
+		<module>ivan-core</module>
+		<module>ivan-dubbo-server</module>
+		<module>ivan-dubbo-web</module>
+		<module>ivan-entity</module>
+		<module>api</module>
+		<module>ivan-api</module>
+		<module>ivan-entity</module>
+		<module>ivan-core</module>
+		<module>ivan-dubbo-server</module>
+		<module>ivan-dubbo-web</module>
+		<module>ivan-dubbo-web</module>
+		<module>ivan-dubbo-web</module>
+		<module>ivan-duboo-web</module>
+	</modules>
+
+	<!-- clean package -P build tomcat7:run-war-only -->
+
+	<properties>
+
+	</properties>
+
+	<repositories>
+
+	</repositories>
+
+	<dependencies>
+
+
+	</dependencies>
+
+	<profiles>
+
+	</profiles>
+
+	<build>
+
+	</build>
+
+	<developers>
+
+	</developers>
+	<distributionManagement>
+
+	</distributionManagement>
+</project>
